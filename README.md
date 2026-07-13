@@ -1,10 +1,10 @@
 <h1 align="center">Robson Tavares</h1>
-<h3 align="center"><span style="color: #2563eb;">Verzi Web</span> — Soluções web completas</h3>
+<h3 align="center"><span style="color: #eab308;">Verzi Web</span> — Soluções web completas</h3>
 
 ###
 <p align="center">
   <strong>Desenvolvimento web, plugins WordPress, plataformas SaaS, tráfego pago e SEO.</strong><br />
-  Da arquitetura à publicação. Tudo que uma PME ou profissional precisa para ter <span style="color: #2563eb;">presença digital de verdade</span> — sem bloat, sem firula, com entrega.
+  Da arquitetura à publicação. Tudo que uma PME ou profissional precisa para ter <span style="color: #eab308;">presença digital de verdade</span> — sem bloat, sem firula, com entrega.
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@
 
 ###
 <div align="center">
-  <h3 style="color: #2563eb;">✦ O que entrego</h3>
+  <h3 style="color: #eab308;">✦ O que entrego</h3>
   <table align="center">
     <tr>
       <td align="center"><strong>Sites & Landing Pages</strong><br /><sub>Institucionais, one-pages, e-commerces</sub></td>
@@ -158,5 +158,5 @@
 
 ###
 <div align="center">
-  <sub><span style="color: #2563eb;">Verzi Web</span> — desenvolvimento web com propósito</sub>
+  <sub><span style="color: #eab308;">Verzi Web</span> — desenvolvimento web com propósito</sub>
 </div>
