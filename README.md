@@ -1,14 +1,14 @@
 <h1 align="center">Robson Tavares</h1>
-<h3 align="center"><span style="color: #eab308;">Verzi Web</span> — Soluções web completas</h3>
+<h3 align="center"><span style="color: #2563eb;">Verzi Web</span> — Soluções web completas</h3>
 
 ###
 <p align="center">
   <strong>Desenvolvimento web, plugins WordPress, plataformas SaaS, tráfego pago e SEO.</strong><br />
-  Da arquitetura à publicação. Tudo que uma PME ou profissional precisa para ter <span style="color: #eab308;">presença digital de verdade</span> — sem bloat, sem firula, com entrega.
+  Da arquitetura à publicação. Tudo que uma PME ou profissional precisa para ter <span style="color: #2563eb;">presença digital de verdade</span> — sem bloat, sem firula, com entrega.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Verzi_Web-eab308?style=flat-square" alt="Verzi Web" />
+  <img src="https://img.shields.io/badge/-Verzi_Web-2563eb?style=flat-square" alt="Verzi Web" />
   <img src="https://img.shields.io/badge/-Fullstack-000000?style=flat-square" alt="Fullstack" />
   <img src="https://img.shields.io/badge/-22_Tecnologias-000000?style=flat-square" alt="22 Tecnologias" />
   <img src="https://img.shields.io/badge/-SEO_%26_Tráfego-000000?style=flat-square" alt="SEO e Tráfego" />
@@ -113,7 +113,7 @@
 
 ###
 <div align="center">
-  <h3 style="color: #eab308;">✦ O que entrego</h3>
+  <h3 style="color: #2563eb;">✦ O que entrego</h3>
   <table align="center">
     <tr>
       <td align="center"><strong>Sites & Landing Pages</strong><br /><sub>Institucionais, one-pages, e-commerces</sub></td>
@@ -158,5 +158,5 @@
 
 ###
 <div align="center">
-  <sub><span style="color: #eab308;">Verzi Web</span> — desenvolvimento web com propósito</sub>
+  <sub><span style="color: #2563eb;">Verzi Web</span> — desenvolvimento web com propósito</sub>
 </div>
