@@ -1,72 +1,59 @@
 <div align="center">
 
-# Oi, eu sou o Robson Tavares 👋
+# Verzi Web
 
-**Dono & dev único da [Verzi Web](https://github.com/verziweb)** — uma one-man agency que constrói a web de verdade.
-
-Construo sites institucionais, landing pages, ecommerces, plataformas e SaaS. Tambem atuo com tráfego pago, SEO e design system. Quando o projeto pede, mergulho em IA, automação e WordPress pesado.
+**Soluções web completas — do frontend ao tráfego pago.**
 
 </div>
 
+Desenvolvimento web com entrega de verdade: sites institucionais, landing pages, ecommerces, plataformas SaaS e plugins WordPress customizados. Da arquitetura à publicação, incluindo SEO, performance e campanhas pagas.
+
 ---
 
-### 🛠️ Stack do dia a dia
+### Stack & Linguagens
 
-| Camada | Ferramentas |
+| Camada | Tecnologias |
 |---|---|
 | **CMS / Backend** | WordPress (PHP 8+, OOP), Docker, MySQL |
-| **Frontend** | Tailwind CSS, shadcn/ui, HTML5, JavaScript |
-| **Sites modernos** | Astro, Next.js, React, TypeScript |
-| **Marketing** | Google Ads, Meta Ads, SEO técnico, Analytics |
-| **DevOps / Workflow** | Git, GitHub, gh CLI, Docker Compose |
+| **Frontend** | Tailwind CSS, shadcn/ui, HTML5, JavaScript, TypeScript |
+| **Sites modernos** | Astro, Next.js, React |
+| **Marketing digital** | Google Ads, Meta Ads, SEO técnico, Analytics |
+| **DevOps** | Git, GitHub, Docker Compose |
 | **IA & automação** | OpenCode, agents, MCPs, RAG |
 
 ---
 
-### 🚀 Onde estou agora
+### Portfolio
 
-- 🎯 Subindo a Verzi Web do zero no GitHub (essa conta)
-- 🏗️ Em produção: **[PK Leite — Portal Topografia](https://github.com/verziweb/pk-leite-portal-topografia)** — WordPress + plugin próprio + tema custom
-- 📚 Documentando tudo que faço em [`verziweb/roadmap`](https://github.com/verziweb/roadmap) (presença digital, decisões de stack, processos)
-- 🧪 Experimentando: sites em Astro + Tailwind pra clientes que pedem performance e SEO forte
+**Portal de gestão para escritório de topografia** — Plugin WordPress com dashboard administrativo, área de membros, painel de projetos e relatórios. Tema custom com one-page institucional. Solução completa: plugin proprietário, frontend responsivo e integração de dados em produção.
 
 ---
 
-### 💼 O que entrego
+### O que entrego
 
-```
-🌐  Sites institucionais & landing pages     → foco em conversão + SEO
-🛒  E-commerces                              → WooCommerce ou headless
-⚙️  Plataformas & SaaS                       → quando vira produto de verdade
-📢  Tráfego pago (Google + Meta)             → campanha, não botão mágico
-🔍  SEO técnico                              → desde o primeiro commit
-🎨  Design system                            → tokens, componentes, documentado
-```
-
----
-
-### 📫 Contato
-
-- 💼 GitHub: [@verziweb](https://github.com/verziweb)
-- 📧 E-mail: `[preencher: seu-email@dominio.com]`
-- 🔗 LinkedIn: `[preencher: linkedin.com/in/verziweb]`
-- 🌐 Site: `[preencher: verziweb.com.br]` *(em construção)*
+- **Sites institucionais & landing pages** — focados em conversão e SEO desde o wireframe
+- **E-commerces** — WooCommerce ou headless, conforme o projeto
+- **Plataformas & SaaS** — arquitetura escalável, pronta para crescer
+- **Plugins WordPress** — funcionalidades sob medida, sem bloat
+- **Tráfego pago (Google + Meta)** — campanha estruturada com métricas reais
+- **SEO técnico** — aplicado do primeiro commit à publicação
+- **Design system** — tokens, componentes, documentação viva
 
 ---
 
-### ⚡ Curiosidades
+### Contato
 
-- 🧠 One-man army: sou dono, dev, designer, comercial e suporte
-- 🇧🇷 Brasileiro, falando português com cliente e inglês com stack
-- 🐛 Já quebrei prod mais vezes do que gostaria de admitir
-- 📖 Aprendo em público — meus repos contam o que estou estudando
+- GitHub: [@verziweb](https://github.com/verziweb)
+- E-mail: `[email@verziweb.com.br]`
+- LinkedIn: `[linkedin.com/in/verziweb]`
+- Site: `[verziweb.com.br]` *(em construção)*
 
 ---
 
 <div align="center">
 
-**"Faz. Mede. Ajusta. Repete."**
+**Faz. Mede. Ajusta. Repete.**
 
-<sub>Construído com ❤️ por um humano que também testa IA — em Verzi Web</sub>
+<sub>Verzi Web — desenvolvimento web com propósito</sub>
 
 </div>
