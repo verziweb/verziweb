@@ -2,56 +2,123 @@
 <h3 align="center">Verzi Web — Soluções web completas</h3>
 
 ###
+<p align="center">
+  <strong>Desenvolvimento web, plugins WordPress, plataformas SaaS, tráfego pago e SEO.</strong><br />
+  Da arquitetura à publicação. Tudo que uma PME ou profissional precisa para ter presença digital de verdade — sem bloat, sem firula, com entrega.
+</p>
+
+###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  </a>
 </div>
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo"  />
+  <a href="https://astro.build/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  </a>
 </div>
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <a href="https://wordpress.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  </a>
+</div>
+
+###
+<div align="center">
+  <h3>O que entrego</h3>
+  <table align="center">
+    <tr>
+      <td align="center"><strong>Sites & Landing Pages</strong><br /><sub>Institucionais, one-pages, e-commerces</sub></td>
+      <td align="center"><strong>Plugins WordPress</strong><br /><sub>Sob medida, sem bloat, com segurança</sub></td>
+      <td align="center"><strong>Plataformas & SaaS</strong><br /><sub>Arquitetura escalável, pronta pra crescer</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tráfego Pago</strong><br /><sub>Google Ads + Meta Ads, métricas reais</sub></td>
+      <td align="center"><strong>SEO Técnico</strong><br /><sub>Do primeiro commit à publicação</sub></td>
+      <td align="center"><strong>Design System</strong><br /><sub>Tokens, componentes, documentação viva</sub></td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -73,7 +140,6 @@
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=verziweb&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=verziweb&locale=pt_BR&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
